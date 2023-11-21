@@ -1,6 +1,8 @@
 # cybersecurity_analysis_tools
 ## [Skills for Hire Atlantic Cybersecurity Program](https://skillsforhire.ca/programs/cyber-security/) Project, Fall 2023
  ---	
+
+*Note: Part 4 uses a file called part4.file for malware analysis. This file is for educational purposes only.* 
 ### Part 1: Cryptography
 For this part, I was required to use Python to perform some cryptography operations. After installing the necessary cryptographic modules, I verified the hash of the supplied files with their hashes. Next, I decrypted the encrypted text file using AES-128. Finally, I verified the plaintext using the provided signature and public key.
 
